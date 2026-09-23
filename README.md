@@ -1,5 +1,7 @@
 [README.md](https://github.com/user-attachments/files/32549979/README.md)
-# Jev 聊天助手 + 本地 NanoJev 判断服务
+职场聊天homie项目，用于判读同事是否甩锅是否挖坑，对话是否有风向
+
+#Jev 聊天助手 + 本地 NanoJev 判断服务
 
 > **本项目为二次开发版**，基于上游 [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)（MIT）改造。
 > 上游版权声明原样保留：`Copyright (c) 2026 Finderchangchang and the jev-chat contributors`。
